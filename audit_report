@@ -1,0 +1,21 @@
+##  Audit Analysis Report: Top 5 Business Units with 'Critical' Issues
+
+###  Observations
+The data analysis specifically targeting the **Top 5 Business Units** with the highest volume of 'Critical' audit issues reveals the following key metrics:
+* **Risk Concentration**: A total of **19 'Critical' issues** are accumulated across the top 5 departments, showing a heavy risk concentration in technology and financial segments.
+* **IT Ranking First**: The **IT** department exhibits the highest risk exposure, leading the list with **7 'Critical' issues** (accounting for **36.8%** of the top 5 total).
+* **Finance as a Close Second**: The **Finance** department follows closely with **6 'Critical' issues**, indicating significant control gaps in financial operations.
+* **Operations and Commercial Segments**: **Operations** ranks third with **3 'Critical' issues'**, while **Marketing** and **HR** round out the top 5 with **2** and **1** critical issue(s) respectively.
+
+---
+
+###  Executive Summary
+#### **High-Level Risk Assessment**
+The latest audit findings indicate a severe concentration of high-severity risks within the company’s core technical and financial infrastructure. The Top 2 risk-bearing units—**IT and Finance**—collectively hold **over 68% (13 out of 19)** of all critical control weaknesses among the top 5 departments. 
+
+This pattern exposes a systemic vulnerability in our data security, infrastructure governance, and financial reporting controls. Immediate supervisory intervention is required to mitigate potential operational disruptions or regulatory compliance penalties.
+
+#### **Management Action Plan (Recommendations)**
+1.  **Targeted Remediation**: Establish a high-priority task force to address and close the **13 critical issues** within the IT and Finance departments within the next 30 days.
+2.  **IT Controls Overhaul**: Given that IT is the primary risk driver (7 issues), management should initiate a comprehensive root-cause analysis on IT general controls (ITGC), specifically targeting system access and cybersecurity vulnerabilities.
+3.  **Cross-Departmental Alignment**: Leverage the robust control frameworks observed in HR and Marketing to baseline and uplift the risk management practices in Operations and other lagging business units.
