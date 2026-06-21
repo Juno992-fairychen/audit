@@ -1,0 +1,47 @@
+issue_id,issue_title,issue_description,risk_severity,business_unit,domain
+1,Reconciliation issue detected,reconciliation observed during routine audit process affecting controls.,Low,IT,Financial Reporting
+2,Misstatement issue detected,misstatement observed during routine audit process affecting controls.,Medium,Finance,Financial Reporting
+3,Outsourcing issue detected,outsourcing observed during routine audit process affecting controls.,High,Compliance,Third Party Risk
+4,Malware issue detected,malware observed during routine audit process affecting controls.,High,HR,Cybersecurity
+5,Change Management issue detected,change management observed during routine audit process affecting controls.,Low,Finance,
+6,Manual Error issue detected,manual error observed during routine audit process affecting controls.,Medium,Finance,
+7,Backup issue detected,backup observed during routine audit process affecting controls.,Medium,Finance,
+8,Misstatement issue detected,misstatement observed during routine audit process affecting controls.,High,HR,Financial Reporting
+9,Backup issue detected,backup observed during routine audit process affecting controls.,Low,Operations,IT General Controls
+10,Gdpr issue detected,GDPR observed during routine audit process affecting controls.,Medium,IT,Data Privacy
+11,Vendor issue detected,vendor observed during routine audit process affecting controls.,Medium,IT,
+12,Change Management issue detected,change management observed during routine audit process affecting controls.,Low,HR,IT General Controls
+13,Policy Breach issue detected,policy breach observed during routine audit process affecting controls.,High,Compliance,Regulatory Compliance
+14,Misstatement issue detected,misstatement observed during routine audit process affecting controls.,High,IT,
+15,Fake Invoice issue detected,fake invoice observed during routine audit process affecting controls.,Low,Compliance,
+16,Policy Breach issue detected,policy breach observed during routine audit process affecting controls.,High,Finance,
+17,Violation issue detected,violation observed during routine audit process affecting controls.,Critical,Compliance,Regulatory Compliance
+18,Vendor issue detected,vendor observed during routine audit process affecting controls.,Low,Compliance,Third Party Risk
+19,Reconciliation issue detected,reconciliation observed during routine audit process affecting controls.,Critical,IT,Financial Reporting
+20,Delay issue detected,delay observed during routine audit process affecting controls.,High,IT,
+21,Embezzlement issue detected,embezzlement observed during routine audit process affecting controls.,Critical,IT,Fraud Risk
+22,Manual Error issue detected,manual error observed during routine audit process affecting controls.,High,Finance,
+23,Vendor issue detected,vendor observed during routine audit process affecting controls.,Medium,Finance,
+24,Breach issue detected,breach observed during routine audit process affecting controls.,High,Compliance,Cybersecurity
+25,Leak issue detected,leak observed during routine audit process affecting controls.,High,IT,Data Privacy
+26,Fake Invoice issue detected,fake invoice observed during routine audit process affecting controls.,Low,HR,Fraud Risk
+27,Reconciliation issue detected,reconciliation observed during routine audit process affecting controls.,Low,Finance,
+28,Fake Invoice issue detected,fake invoice observed during routine audit process affecting controls.,Low,IT,Fraud Risk
+29,Malware issue detected,malware observed during routine audit process affecting controls.,Critical,IT,Cybersecurity
+30,Breach issue detected,breach observed during routine audit process affecting controls.,Low,HR,
+31,Manual Error issue detected,manual error observed during routine audit process affecting controls.,Low,IT,Operational Risk
+32,Backup issue detected,backup observed during routine audit process affecting controls.,Low,HR,
+33,Misstatement issue detected,misstatement observed during routine audit process affecting controls.,High,Compliance,
+34,Vendor issue detected,vendor observed during routine audit process affecting controls.,Medium,Compliance,Third Party Risk
+35,Access Control issue detected,access control observed during routine audit process affecting controls.,Critical,Operations,IT General Controls
+36,Violation issue detected,violation observed during routine audit process affecting controls.,Medium,Finance,Regulatory Compliance
+37,Vendor issue detected,vendor observed during routine audit process affecting controls.,Medium,Operations,Third Party Risk
+38,Non Compliance issue detected,non compliance observed during routine audit process affecting controls.,Medium,Compliance,
+39,Ledger issue detected,ledger observed during routine audit process affecting controls.,Critical,Operations,Financial Reporting
+40,Non Compliance issue detected,non compliance observed during routine audit process affecting controls.,Medium,Operations,Regulatory Compliance
+41,Process Failure issue detected,process failure observed during routine audit process affecting controls.,Low,Finance,
+42,Consent issue detected,consent observed during routine audit process affecting controls.,Medium,IT,Data Privacy
+43,Malware issue detected,malware observed during routine audit process affecting controls.,Low,Compliance,
+44,Consent issue detected,consent observed during routine audit process affecting controls.,Low,Finance,Data Privacy
+45,Change Management issue detected,change management observed during routine audit process affecting controls.,High,Compliance,
+46,Pii issue detected,PII observed during routine audit process affecting controls.,High,IT,Data Privacy
